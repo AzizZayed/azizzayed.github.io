@@ -21,4 +21,4 @@ Equality saturation promises to solve these challenges. First, it simplifies the
 
 This paper proposes to integrate Egglog, a recent equality saturation engine, with MLIR, in a dialect-agnostic manner. This paper shows how the main MLIR constructs such as operations, types or attributes can be modeled in Egglog. It also presents DialEgg, a tool that pre-defines a large set of common MLIR constructs in Egglog and automatically translates between the MLIR and Egglog program representations. Using a few use-cases, this paper demonstrates the potential for combining equality saturation and MLIR.
 
-[Paper](/publications/dialegg/zayedcgo24.pdf) [Slides](/publications/dialegg/zayedcgo24-slides.pdf) [Repo](https://github.com/AzizZayed/DialEgg)
+[Paper](/publications/dialegg/zayedcgo24.pdf) [CGO Slides](/publications/dialegg/zayedcgo24-slides.pdf) [EGRAPHS Slides](/publications/dialegg/DialEgg_EGRAPHS.pdf) [Repo](https://github.com/AzizZayed/DialEgg)
